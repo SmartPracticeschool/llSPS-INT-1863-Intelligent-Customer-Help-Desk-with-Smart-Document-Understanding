@@ -1,0 +1,85 @@
+ # Intelligent Customer Help Desk With Smart Document Understanding #
+ - Category: Artificial Intelligence
+
+- Skills Required:
+Python,IBM Cloud,IBM Watson
+_________________________________________________________________________________________________________________________
+1] Project Description-->
+
+The typical customer care chatbot can answer simple questions, such as store locations and hours, directions, and maybe even making appointments. When a question falls outside of the scope of the pre-determined question set, the option is typically to tell the customer the question isn’t valid or offer to speak to a real person.
+
+In this project, there will be another option. If the customer question is about the operation of a device, the application shall pass the question onto Watson Discovery Service, which has been pre-loaded with the device’s owners manual. So now, instead of “Would you like to speak to a customer representative?” we can return relevant sections of the owners manual to help solve our customers’ problems.
+To take it a step further, the project shall use the Smart Document Understanding feature of Watson Discovery to train it on what text in the owners manual is important and what is not. This will improve the answers returned from the queries.
+
+Scope of Work --
+
+Create a customer care dialog skill in Watson Assistant
+Use Smart Document Understanding to build an enhanced Watson Discovery collection
+Create an IBM Cloud Functions web action that allows Watson Assistant to post queries to Watson Discovery
+Build a web application with integration to all these services & deploy the same on IBM Cloud Platform
+_________________________________________________________________________________________________________________________
+2]. Project Requirements-->
+
+I) Create a client care discourse ability in Watson Assistant. 
+ii) Smart Document Understanding (SDU) to develop high end Watson Discovery collection. 
+iii) Create an IBM Cloud functions web activity that permits Watson Assistant to present questions on Watson discovery. 
+iv) Build a web application with reconciliation to all the services and DEPLOY the IBM Cloud Platform.
+_________________________________________________________________________________________________________________________
+3]. Functional Requirements-->
+
+step-1: The information source from outer is commented on by utilizing Watson Discovery Smart Document Understanding. 
+step-2: The client cooperates with the back-end server through the application UI. The front-end application UI is a chatbot that connects with the client in a conversaton. 
+step-3: Dialog between the client and back-end server is facilitated by utilizing Watson Assistant dailog skill. 
+step-4: If the client poses an inquiry that falls outside of the extent of the pre-decided inquiry set, at that point a search query is initiated to the Watson Discovery service through a Watson Assistant hunt expertise.
+_________________________________________________________________________________________________________________________
+4]. Technical Requirements-->
+
+i) write the code in github account and clone the repository.
+ii) Create Watson services.
+iii) Configure Watson Discovery.
+iv) Configure Watson Assistant.
+v) Add Watson service credentials to environment file.
+vi) Run the application.
+_________________________________________________________________________________________________________________________
+5]. Software Requirements-->
+
+i) IBM Cloud
+ii) Node-RED (Flow-based development tool for visual programming developed by IBM).
+iii) IBM Watson services, Watson Assistance, Watson Discovery.
+iv) IBM Cloud functions
+v) Customer Help Desk with Smart Document Understanding(SDU).
+_________________________________________________________________________________________________________________________
+6]. Project Deliverables-->
+
+Requirement specification (Document) - Initial briefing report.
+User interface
+Backend Development
+Set up of Test System
+User Training session
+Project Report
+_________________________________________________________________________________________________________________________
+7]. Project Team-->
+
+Individual project
+Name : Shivam Gupta
+_________________________________________________________________________________________________________________________
+8]. Project Schedule--> (29 days)
+
+Project Planning & Kickoff - 2 day
+Setup the Development Environment - 1 day
+Create IBM Cloud Account - 2 day
+Create a Node_RED Starter Application - 1 day
+Explore IBM Watson Usecases - 1 day
+Introduction to Watson Assistance - 2 days
+Introduction to Watson Discovery- 2 days
+Getting Started with IBM Cloud Functions - 2 day
+Create necessary IBM Cloud services - 2 day
+Configure Watson Discovery Service - 2 day
+Create cloud functions action - 3 day
+Configure Watson Assistant - 2 day
+Build Node-RED flow to integrate all services - 2 days
+Build a web dashboard - 3 day
+Test the Bot and capture the results - 1 day
+Prepare the project report and upload the Node_RED flow to GitHub - 1 day
+  
+***
